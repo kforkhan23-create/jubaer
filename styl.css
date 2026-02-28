@@ -1,0 +1,17 @@
+div{
+    width: 300px;
+    background-color: aqua;
+    padding: 30px;
+    border-radius: 10px;
+}
+img{
+    width: 300px;
+}
+
+button{
+    padding: 10px 20px;
+    background-color: blue;
+    color: white;
+    border-radius: 10px;
+
+}
